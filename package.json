@@ -1,0 +1,13 @@
+{
+  "name": "agent-club-quiz",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}
